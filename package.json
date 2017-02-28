@@ -1,0 +1,9 @@
+{
+  "name": "docker-base",
+  "version": "0.1.0",
+  "description": "Base docker images for sammler.io",
+  "main": "index.js",
+  "repository": "https://github.com/sammler/docker-base",
+  "author": "Stefan Walther",
+  "license": "MIT"
+}
