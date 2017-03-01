@@ -1,6 +1,6 @@
 # docker-base
 
-> Just some basic docker images for sammler.io
+> Just some basic docker images for sammler.io to be easily able to change the used images in all projects/services.
 
 ## Images
 
