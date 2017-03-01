@@ -4,4 +4,13 @@
 
 ## Images
 
-- Docker Hub: [sammlerio/node](https://hub.docker.com/r/sammlerio/node/) (Dockerfile: [./node/Dockerfile](./node/Dockerfile))
+### Nodes.js + yarn:
+
+Docker Hub: [sammlerio/node](https://hub.docker.com/r/sammlerio/node/) 
+Dockerfile: [./node/Dockerfile](./node/Dockerfile)
+
+### Mongo:
+
+Docker Hub: [sammlerio/mongo](https://hub.docker.com/r/sammlerio/mongo/) 
+Dockerfile: [./node/Dockerfile](./mongo/Dockerfile)
+ 
