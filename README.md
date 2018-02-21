@@ -2,15 +2,14 @@
 
 > Just some basic docker images for sammler.io to be easily able to change the used images in all projects/services.
 
-## Images
 
-### Nodes.js + yarn:
+## Build
 
-Docker Hub: [sammlerio/node](https://hub.docker.com/r/sammlerio/node/) 
-Dockerfile: [./node/Dockerfile](./node/Dockerfile)
+```
+$ ./build-all.sh
+```
 
-### Mongo:
+## References
 
-Docker Hub: [sammlerio/mongo](https://hub.docker.com/r/sammlerio/mongo/) 
-Dockerfile: [./node/Dockerfile](./mongo/Dockerfile)
+- https://github.com/jessfraz/dockerfiles
  
