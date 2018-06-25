@@ -1,1 +1,1 @@
-FROM kkarczmarczyk/node-yarn:7.6
+FROM kkarczmarczyk/node-yarn:7.6@sha256:7e4180c69ab6759cd09443b9f8e899272401ff0839aed2e7a7b95cd89357614f
