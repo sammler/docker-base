@@ -27,3 +27,9 @@ Example:
 ```bash
 $ docker run -it sammlerio/fluentd-logz -e "LOGZ_API_TOKEN=foo"
 ```
+
+Versions:
+
+**latest**
+- Fluentd: 1.3.3
+- fluent-plugin-logzio: 0.0.19
