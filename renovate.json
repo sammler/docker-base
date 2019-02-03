@@ -1,5 +1,14 @@
 {
   "extends": [
     "config:base"
+  ],
+  "ignorePaths": [
+    "fluentd-logz/1.0.0/",
+    "mongo/3.6/",
+    "monog/3.7/",
+    "nats-streaming/0.11.2",
+    "rabbitmq/3.6/",
+    "rabbitmq/3.7/"
+
   ]
 }
