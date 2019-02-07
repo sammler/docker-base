@@ -4,6 +4,7 @@
   ],
   "ignorePaths": [
     "fluentd-logz/1.0.0/",
+    "grafana/5.4.3/",
     "mongo/3.6/",
     "monog/3.7/",
     "nats-streaming/0.11.2",
