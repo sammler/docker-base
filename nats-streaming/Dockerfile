@@ -1,1 +1,1 @@
-FROM nats-streaming:0.11.2
+FROM nats-streaming:0.16.0
