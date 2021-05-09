@@ -1,1 +1,1 @@
-FROM kkarczmarczyk/node-yarn:7.6
+FROM kkarczmarczyk/node-yarn:8.0
