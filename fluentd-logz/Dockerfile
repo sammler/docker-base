@@ -1,4 +1,4 @@
-FROM ruby:2.6.4-alpine
+FROM ruby:2.7.8-alpine
 RUN apk add --update \
   build-base \
   bash \
